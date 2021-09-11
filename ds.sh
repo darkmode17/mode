@@ -1,3 +1,3 @@
 2bg
 bn
-n
+nn
